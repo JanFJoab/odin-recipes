@@ -23,6 +23,9 @@ a{
     text-decoration: none;
     line-height: 1.8;
 }
+.recipe-links a {
+    color: black;
+}
 
 .recipe-links a:visited {
     color: black;
@@ -32,6 +35,10 @@ a{
     color: seashell;
     background-color: black;
     padding: 20px;
+}
+
+.bottom-of-page a {
+    color: seashell;
 }
 
 .bottom-of-page a:visited {
