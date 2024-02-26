@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:seashell;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    color:seashell;
+    background-color: black;
+    padding: 20px;
+}
+
+ul {
+    color: black;
+    font-weight: bold;
+}
+
+a{
+    font-size: 24px;
+    text-decoration: none;
+    line-height: 1.8;
+    padding: 10px;
+}
+
+.recipe-links a:visited {
+    color: black;
+}
+
+.bottom-of-page {
+    color: seashell;
+    background-color: black;
+    padding: 20px;
+}
+
+.bottom-of-page a:visited {
+    color: seashell;
+}
