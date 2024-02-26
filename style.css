@@ -44,7 +44,7 @@ img {
   max-width: 100%;
   height: auto;
   max-height: 55vh;
-  margin: 1vh;
+  padding: 1vh;
 }
 
 button:hover {
