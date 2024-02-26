@@ -23,6 +23,13 @@ a{
     text-decoration: none;
     line-height: 1.8;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 512px;
+}
+
 .recipe-links a {
     color: black;
 }
