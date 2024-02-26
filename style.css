@@ -9,32 +9,30 @@ h1 {
     color:seashell;
     background-color: black;
     padding: 20px;
+    border-radius: 20px;
 }
 h2 {
     padding-left: 20px;
 }
-ul {
-    color: black;
-    font-weight: bold;
-}
-
-a{
+ 
+a, a:visited{
     font-size: 24px;
     text-decoration: none;
     line-height: 1.8;
+    color: black;
 }
+
 
 img {
     max-width: 100%;
     height: auto;
     max-height: 512px;
+    border-radius: 20px;
 }
 
-.recipe-links a {
-    color: black;
-}
-
-.recipe-links a:visited {
+.homepage-content {
+    padding: 20px;
+    border-radius: 20px;
     color: black;
 }
 
@@ -42,12 +40,9 @@ img {
     color: seashell;
     background-color: black;
     padding: 20px;
+    border-radius: 20px;
 }
 
-.bottom-of-page a {
-    color: seashell;
-}
-
-.bottom-of-page a:visited {
+.bottom-of-page a, .bottom-of-page a:visited{
     color: seashell;
 }
